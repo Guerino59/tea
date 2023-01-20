@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../maquette/assets"
+		},
+		{
+			"name": "Tea site",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Tea site"
+	}
+}
